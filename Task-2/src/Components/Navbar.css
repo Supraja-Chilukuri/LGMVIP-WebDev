@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+  }
+  
+  .navbar {
+    color: #000;
+    background-image: linear-gradient(to right, #930e7d, #8f008e, #8600a2, #7300b9, #4d0bd1);
+    padding: 4px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+            -webkit-box-shadow: 2px 4px 5px rgb(56, 56, 56);
+            box-shadow: 2px 4px 5px rgb(56, 56, 56);
+  }
+  
+  .navbar button.getusers {
+    font-size: 24px;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 5px;
+    border: #ccc4 outset 2px;
+    text-decoration: none;
+    color: rgba(232, 255, 167, 0.667);
+    background-color: rgba(226, 222, 236, 0.533);
+    -webkit-box-shadow: 2px 4px 5px rgb(56, 56, 56);
+            box-shadow: 2px 4px 5px rgb(56, 56, 56);
+    cursor: pointer;
+  }
+  
+  .navbar button.getusers:hover {
+    border: #ccc4 inset 2px;
+    color: #563e91;
+    background-color: #e5e5e5;
+    -webkit-box-shadow: 2px 4px 5px rgb(56, 56, 56);
+            box-shadow: 2px 4px 5px rgb(56, 56, 56);
+  }
+  
+  .navbar button.getusers:active {
+    -webkit-box-shadow: 0px 0px 0px #000;
+            box-shadow: 0px 0px 0px #000;
+  }
+  
+  .navbar a.istreamzio {
+    font-size: 24px;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    border-bottom: 5px solid transparent;
+    color: #fff;
+    font-family: 'Copperplate Gothic Light', sans-serif;
+  }
+  
+  .navbar a.istreamzio:hover {
+    border-bottom: 5px solid #563e91;
+  }
