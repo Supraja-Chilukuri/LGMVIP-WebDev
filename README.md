@@ -1,12 +1,12 @@
 # LGMVIP-WebDev
 
-###Task-1:
+### Task-1:
 Create a single page website using HTML, CSS, Javascript, Bootstrap.
 
 
 https://user-images.githubusercontent.com/76449923/126908111-7ffb8b55-dd69-4a2e-b61f-099a05f0827b.mp4
 
-###Task-2:
+### Task-2:
 Create a web application using create-react-app
 
   1. Create a User card grid layout having a navbar showing any brand name 
@@ -18,3 +18,7 @@ Create a web application using create-react-app
 
 https://user-images.githubusercontent.com/76449923/126908141-f9675daf-9872-4a0b-b826-d25db59f992e.mp4
 
+
+### Blog: 
+
+https://medium.com/@suppuch123/my-internship-experience-at-letsgrowmore-lgmvip-c87dfa1e76da
