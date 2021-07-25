@@ -3,7 +3,8 @@
 ### Task-1:
 Create a single page website using HTML, CSS, Javascript, Bootstrap.
 
-My submission: __iStreamzio__
+My submission (__iStreamzio__):
+
 https://user-images.githubusercontent.com/76449923/126908111-7ffb8b55-dd69-4a2e-b61f-099a05f0827b.mp4
 
 ### Task-2:
@@ -14,7 +15,8 @@ Create a web application using create-react-app
   4. Show a loader while the API fetches the data. 
   5. Use custom CSS/SASS/styled-components. 
 
-My submission: __iStreamzio__
+My submission (__iStreamzio__):
+
 https://user-images.githubusercontent.com/76449923/126908141-f9675daf-9872-4a0b-b826-d25db59f992e.mp4
 
 
